@@ -1,0 +1,9 @@
+.text{
+    text-align: center;
+    color: grey;
+}
+.text-error{
+    height: 150px;
+    background-color: hotpink;
+    border: 1px solid deeppink;
+}
